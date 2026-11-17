@@ -34,10 +34,10 @@
 ### 📥 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/EnzoNotNice/EnzoQuests.git
+git clone https://github.com/i2tt/CyperAgent-Quest-Notifications.git
 
 # Enter the directory
-cd CyperQuests
+cd CyberQuests
 
 # Install dependencies
 npm install
